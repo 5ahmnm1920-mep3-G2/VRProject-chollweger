@@ -16,8 +16,14 @@ macOS Mojave Version 10.14.4, Unity2019.1.14f1, VS 7.7.0.1868
 ### Target platform:
 Mobiel, Google Cardboard
 
+### Visuals
+Screenshots (concept and experience), Video
+
 ### Necessary setup/execution steps:
 Open Unity, open the Cardboard App on the Mobile Device
+
+### Third party material
+(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state:
 2 %
