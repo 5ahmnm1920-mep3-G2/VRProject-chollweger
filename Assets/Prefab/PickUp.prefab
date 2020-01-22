@@ -117,17 +117,17 @@ MonoBehaviour:
         serializedVersion: 2
         x: 55
         y: 110
-        width: 128.5
+        width: 112
         height: 32
       isBreakpoint: 0
       isSequence: 0
       hideUnused: 0
       transitions:
       - fsmEvent:
-          name: TRIGGER ENTER
+          name: MOUSE OVER
           isSystemEvent: 1
           isGlobal: 0
-        toState: Destroy
+        toState: 
         linkStyle: 0
         linkConstraint: 0
         colorIndex: 0
@@ -141,7 +141,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 010101
-        actionIsOpen: 000101
+        actionIsOpen: 000001
         actionStartIndex: 000000000a0000000a000000
         actionHashCodes: b0327400000000009c512400
         unityObjectParams: []
@@ -249,8 +249,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 299
-        y: 102
+        x: 100062.99
+        y: 100057.03
         width: 100
         height: 16
       isBreakpoint: 0
@@ -306,6 +306,9 @@ MonoBehaviour:
         paramDataPos: 00000000
         paramByteDataSize: 00000000
     events:
+    - name: MOUSE OVER
+      isSystemEvent: 1
+      isGlobal: 0
     - name: TRIGGER ENTER
       isSystemEvent: 1
       isGlobal: 0
@@ -345,7 +348,7 @@ MonoBehaviour:
     EnableBreakpoints: 1
     editorFlags: 1
     activeStateName: 
-    mouseEvents: 0
+    mouseEvents: 1
     handleLevelLoaded: 0
     handleTriggerEnter2D: 0
     handleTriggerExit2D: 0
