@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Rolerball.unity
+    path: Assets/Scenes/MainScene.unity
     guid: b9df51f2f7d914b45ab7ad1d1a39ee65
   m_configObjects: {}
