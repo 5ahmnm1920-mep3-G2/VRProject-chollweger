@@ -26,7 +26,7 @@ To grab/drop a toy, use the button on the top right of your Google Cardboard gla
  90 %
 
  ### Limitations:
-no limitations
+ + never worked with google Cardboard
 
  ### Lessons Learned:
  + SetUp for Handy Games
@@ -34,6 +34,16 @@ no limitations
  + Organisation is necessery
  + Playmaker is very helpful
  + I love the Asset Store
+ 
+ ### Asset Store
+ + 3D.RINA - Sweet Candies Pack
+ + PEPPERJACK - Bed & Bath Furniture Pack
+ + PEPPERJACK - Bed & Bath Furniture Pack
+ + PSIONIC GAMES - 6 x 3D Cute Toy Models
+ + KEILBAUM - Small Plants
+ 
+ ### Links 
+ [presentation]
 
  Copyright by CarolinHollweger
  Lock conversation
