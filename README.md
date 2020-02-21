@@ -43,7 +43,8 @@ To grab/drop a toy, use the button on the top right of your Google Cardboard gla
  + KEILBAUM - Small Plants
  
  ### Links 
- [presentation]
+ +can not add links, you will find the files at VRProject-Hollweger first page
+ (presentation, video, dokumentation)
 
  Copyright by CarolinHollweger
  Lock conversation
